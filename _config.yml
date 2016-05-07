@@ -1,0 +1,28 @@
+name: semplicepadigit
+favicon: null
+layout_spectrum: 0.32873426261357963
+typography_spectrum: 0.006177798844873905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2373037333600223
+  lightness: 0.3301055764313787
+  saturation: 0.6490000505000353
+  rhythmicContrast: 0.3231051368638873
+purpose: []
